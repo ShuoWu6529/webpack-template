@@ -7,6 +7,7 @@ import { testing } from "./export-template.js";
  * npx prettier . --write
  * npm run dev
  * npm run build
+ * npm test
  **/
 
 console.log(testing);
